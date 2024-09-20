@@ -16,4 +16,4 @@ Quiz Master is an interactive coding quiz application designed to test your know
 - **CSS:** Styling and layout, with hover effects and animations for a smooth user experience.
 - **JavaScript:** Interactivity and functionality, including quiz logic, timer management, and score calculation.
 
-**take a look of the project**:
+**take a look of the project**:  https://srv2k21codex.github.io/Quiz-app/
