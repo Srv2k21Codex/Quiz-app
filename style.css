@@ -197,4 +197,8 @@ body.dark-mode li:nth-child(odd) {
         margin: 10px auto;
         padding: 10px 15px; /* Consistent padding */
     }
+     body.dark-mode .options button {
+        width: 100%; /* Set width to 100% in dark mode */
+        
+    }
 }
