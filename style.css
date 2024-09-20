@@ -181,6 +181,7 @@ body.dark-mode li:nth-child(odd) {
     body.dark-mode button {
         padding: 10px 15px;
         width:auto; /* Make buttons smaller */
+        font-size:13px;
     }
 }
 
@@ -189,6 +190,7 @@ body.dark-mode li:nth-child(odd) {
         width: auto;
         border: 1px solid rgb(9, 21, 49);
         padding:10px;
+        font-size:13px;
     }
 
     /* Adjust quiz answer buttons to fit their content */
