@@ -172,12 +172,13 @@ body.dark-mode li:nth-child(odd) {
     }
 
     button {
-        font-size: 1rem;
+        font-size: 20px;
     }
 }
 
 @media screen and (max-width: 575px) {
     button {
-        width: 100%;
+        width: 40%;
+        border:1px solid rgb(9, 21, 49);
     }
 }
