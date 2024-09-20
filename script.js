@@ -55,7 +55,7 @@ let questions = [
             "Testing ,updation,Testing",
             "Initialization,Testing,Updation",
         ],
-        answer: "Initializatoin,Testing,Updation",
+        answer: "Initialization,Testing,Updation",
     },
 ];
 
